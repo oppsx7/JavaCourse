@@ -1,0 +1,21 @@
+[submodule "christmas-presents"]
+	path = christmas-presents
+	url = https://github.com/itBeykz/christmas-presents.git
+[submodule "style-checker"]
+	path = style-checker
+	url = https://github.com/itBeykz/style-checker.git
+[submodule "memory-cache-test"]
+	path = memory-cache-test
+	url = https://github.com/itBeykz/memory-cache-test.git
+[submodule "shopping-cart"]
+	path = shopping-cart
+	url = https://github.com/itBeykz/shopping-cart.git
+[submodule "coffee-machine"]
+	path = coffee-machine
+	url = https://github.com/itBeykz/coffee-machine.git
+[submodule "car-store"]
+	path = car-store
+	url = https://github.com/itBeykz/car-store.git
+[submodule "issueTracker"]
+	path = issueTracker
+	url = https://github.com/itBeykz/issueTracker.git
