@@ -1,0 +1,6 @@
+Eddy ate dyorite. God bye Eddy.
+===Metadata===
+26 characters, 6 words, 2 spelling issue(s) found
+===Findings===
+Line #1, {God} - Possible suggestions are {odi, good}
+Line #1, {dyorite.} - Possible suggestions are {ate, dynamite}

@@ -1,97 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e6e9b9c-2494-4c82-99f8-5f7d9bd36a60" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="5e6e9b9c-2494-4c82-99f8-5f7d9bd36a60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/SpellCheckTool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/Metadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/NaiveSpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/testOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/test/bg/sofia/uni/fmi/mjt/spellchecker/NaiveSpellCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StyleChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/META-INF/Homework3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/ChatClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/ChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/ClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/StartClient$Receiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/StartClient$Receiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/StartClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/StartClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/StartServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/StartServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/commands/SendMessageCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework3/bg/sofia/uni/fmi/mjt/chat/commands/SendMessageCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Homework3/META-INF/Homework3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Homework3/bg/sofia/uni/fmi/mjt/chat/TestChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Homework3/bg/sofia/uni/fmi/mjt/chat/TestChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Homework3/bg/sofia/uni/fmi/mjt/chat/TestClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Homework3/bg/sofia/uni/fmi/mjt/chat/TestClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StyleChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StyleChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StyleChecker/StyleChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../StyleChecker/StyleChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StyleChecker/test/bg/sofia/uni/fmi/mjt/stylechecker/TestStyleChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StyleChecker/test/bg/sofia/uni/fmi/mjt/stylechecker/NaiveSpellCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style-checker" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="165" />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ChatClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/StartClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/StartServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ChatServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
-              <folding>
-                <element signature="e#3620#3621#0" expanded="true" />
-                <element signature="e#3657#3658#0" expanded="true" />
-                <element signature="e#4211#4212#0" expanded="true" />
-                <element signature="e#4276#4277#0" expanded="true" />
-                <element signature="e#5925#5926#0" expanded="true" />
-                <element signature="e#5983#5984#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ClientHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestChatServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="135" selection-start-line="135" selection-end-line="135" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/commands/SendMessageCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,69 +74,21 @@
       <replace>SERIAL_VERSION</replace>
     </replaceStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/Client.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ClientRequestHandler.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ChatClient.java" />
-        <option value="$PROJECT_DIR$/test/TestChatServer.java" />
-        <option value="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestClientHandler.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/commands/SendMessageCommand.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ClientHandler.java" />
-        <option value="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestChatServer.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/StartClient.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ChatServer.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Homework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1mt7hWelbdDT5WaFlfwCNaMnWq7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -182,6 +98,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -191,19 +110,7 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.StartClient">
+  <component name="RunManager" selected="JUnit.TestChatServer">
     <configuration name="StartClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.chat.StartClient" />
       <module name="Homework3" />
@@ -217,7 +124,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StartServer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.chat.StartServer" />
       <module name="Homework3" />
       <extension name="coverage">
@@ -245,6 +152,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestChatServer.testClientNotRegistered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.chat" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.chat.TestChatServer" />
+      <option name="METHOD_NAME" value="testClientNotRegistered" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestChatServer.testSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework3" />
       <extension name="coverage">
@@ -261,35 +184,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClientHandler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.chat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.chat" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.chat.TestClientHandler" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StartServer" />
       <item itemvalue="Application.StartClient" />
-      <item itemvalue="JUnit.TestChatServer" />
-      <item itemvalue="JUnit.TestClientHandler" />
       <item itemvalue="JUnit.TestChatServer.testSend" />
+      <item itemvalue="JUnit.TestChatServer.testClientNotRegistered" />
+      <item itemvalue="JUnit.TestChatServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestChatServer" />
+        <item itemvalue="JUnit.TestChatServer.testClientNotRegistered" />
         <item itemvalue="Application.StartClient" />
         <item itemvalue="Application.StartServer" />
         <item itemvalue="JUnit.TestChatServer.testSend" />
-        <item itemvalue="JUnit.TestClientHandler" />
-        <item itemvalue="JUnit.TestChatServer" />
       </list>
     </recent_temporary>
   </component>
@@ -310,191 +218,67 @@
       <workItem from="1579561648915" duration="15000" />
       <workItem from="1580205503018" duration="578000" />
       <workItem from="1580207367782" duration="53000" />
+      <workItem from="1610301163101" duration="1293000" />
+      <workItem from="1610562089463" duration="2076000" />
+      <workItem from="1610649702705" duration="633000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TestChatServer - 2020.01.20 at 22h 53m 19s.xml">
-      <configuration name="TestChatServer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClientHandler_testReceivingMessage - 2020.01.20 at 23h 18m 42s.xml">
-      <configuration name="TestClientHandler.testReceivingMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer_testSendAll - 2020.01.20 at 23h 53m 04s.xml">
-      <configuration name="TestChatServer.testSendAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer_testSendAll - 2020.01.20 at 23h 54m 28s.xml">
-      <configuration name="TestChatServer.testSendAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer_testSendAll - 2020.01.20 at 23h 56m 24s.xml">
-      <configuration name="TestChatServer.testSendAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer_testShowListOfUsers - 2020.01.21 at 00h 01m 08s.xml">
-      <configuration name="TestChatServer.testShowListOfUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer_testDisconnect - 2020.01.21 at 00h 04m 36s.xml">
-      <configuration name="TestChatServer.testDisconnect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer - 2020.01.21 at 00h 04m 49s.xml">
-      <configuration name="TestChatServer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClientHandler - 2020.01.21 at 00h 05m 32s.xml">
-      <configuration name="TestClientHandler" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestChatServer_testSend - 2020.01.21 at 00h 20m 49s.xml">
-      <configuration name="TestChatServer.testSend" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19791000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27382874" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2630137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4479452" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32956383" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610302023692">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1610302023692" />
+    <state width="1238" height="152" key="GridCell.Tab.0.bottom" timestamp="1610650596421">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="152" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1610302589495" />
+    <state width="1238" height="152" key="GridCell.Tab.0.bottom/1280.23.1600.877/0.23.1280.777@0.23.1280.777" timestamp="1610650596421" />
+    <state width="1238" height="152" key="GridCell.Tab.0.center" timestamp="1610650596420">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="152" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1610302589494" />
+    <state width="1238" height="152" key="GridCell.Tab.0.center/1280.23.1600.877/0.23.1280.777@0.23.1280.777" timestamp="1610650596420" />
+    <state width="1238" height="152" key="GridCell.Tab.0.left" timestamp="1610650596420">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="152" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1610302589494" />
+    <state width="1238" height="152" key="GridCell.Tab.0.left/1280.23.1600.877/0.23.1280.777@0.23.1280.777" timestamp="1610650596420" />
+    <state width="1238" height="152" key="GridCell.Tab.0.right" timestamp="1610650596420">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="152" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1610302589495" />
+    <state width="1238" height="152" key="GridCell.Tab.0.right/1280.23.1600.877/0.23.1280.777@0.23.1280.777" timestamp="1610650596420" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1610301823693">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1610301823693" />
+    <state x="305" y="186" key="run.anything.popup" timestamp="1610301868814">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="186" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1610301868814" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Homework3$TestChatServer.ic" NAME="TestChatServer Coverage Results" MODIFIED="1579557885399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>bg.sofia.uni.fmi.mjt.chat.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Homework3$TestClientHandler.ic" NAME="TestClientHandler Coverage Results" MODIFIED="1579557928220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>bg.sofia.uni.fmi.mjt.chat.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/SimpleChatApp-master/src/bg/sofia/uni/fmi/mjt/chat/ClientHandler.java" />
-    <entry file="file://$USER_HOME$/Downloads/SimpleChatApp-master/src/bg/sofia/uni/fmi/mjt/chat/ChatClient.java" />
-    <entry file="file://$USER_HOME$/Downloads/SimpleChatApp-master/src/bg/sofia/uni/fmi/mjt/chat/StartClient.java" />
-    <entry file="file://$USER_HOME$/Downloads/SimpleChatApp-master/src/bg/sofia/uni/fmi/mjt/chat/StartServer.java" />
-    <entry file="file://$USER_HOME$/Downloads/SimpleChatApp-master/src/bg/sofia/uni/fmi/mjt/chat/ChatServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ClientRequestHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/Client.java" />
-    <entry file="file://$PROJECT_DIR$/../Homework1/test/test/ShoppingDirectoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="48" column="2" lean-forward="true" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ChatClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/StartClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/StartServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ChatServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
-          <folding>
-            <element signature="e#3620#3621#0" expanded="true" />
-            <element signature="e#3657#3658#0" expanded="true" />
-            <element signature="e#4211#4212#0" expanded="true" />
-            <element signature="e#4276#4277#0" expanded="true" />
-            <element signature="e#5925#5926#0" expanded="true" />
-            <element signature="e#5983#5984#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/chat/TestChatServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/commands/SendMessageCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/chat/ClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/Homework3$TestChatServer.ic" NAME="TestChatServer Coverage Results" MODIFIED="1610649719765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.chat.*</FILTER>
+    </SUITE>
   </component>
 </project>

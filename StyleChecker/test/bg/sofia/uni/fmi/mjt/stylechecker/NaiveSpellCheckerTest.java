@@ -10,7 +10,7 @@ import java.io.Writer;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestStyleChecker {
+public class NaiveSpellCheckerTest {
 
     private StyleChecker checker;
     private Reader input;

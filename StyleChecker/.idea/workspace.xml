@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe6bd30-56ad-4da6-bcf5-0b29f42ddf40" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2fe6bd30-56ad-4da6-bcf5-0b29f42ddf40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/Metadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/NaiveSpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellCheckTool/test/bg/sofia/uni/fmi/mjt/spellchecker/TestNaiveSpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StyleChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/stylechecker/TestStyleChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/stylechecker/NaiveSpellCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style-checker" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,64 +40,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/stylechecker/StyleChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/stylechecker/TestStyleChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/stylechecker/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,61 +57,14 @@
       <replace>fixIfPackageNameContainsUpperLettersOrUnderScores</replace>
     </replaceStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test.txt" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/stylechecker/Main.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/stylechecker/StyleChecker.java" />
-        <option value="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/stylechecker/TestStyleChecker.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="StyleChecker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StyleChecker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StyleChecker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StyleChecker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StyleChecker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StyleChecker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stylechecker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StyleChecker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StyleChecker" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StyleChecker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StyleChecker" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="stylechecker" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1m6VbDxQr55Uy3tPGgBYKuOum5g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -150,6 +73,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -164,19 +88,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.TestStyleChecker">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.Main" />
       <module name="StyleChecker" />
@@ -190,7 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStyleChecker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NaiveSpellCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StyleChecker" />
       <extension name="coverage">
         <pattern>
@@ -199,13 +111,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.TestStyleChecker" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.NaiveSpellCheckerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStyleChecker.testIfOpeningBracketsAreOnSameLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NaiveSpellCheckerTest.testIfOpeningBracketsAreOnSameLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StyleChecker" />
       <extension name="coverage">
         <pattern>
@@ -214,14 +126,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.TestStyleChecker" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.NaiveSpellCheckerTest" />
       <option name="METHOD_NAME" value="testIfOpeningBracketsAreOnSameLine" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStyleChecker.testIfPackageNameContainsUnderScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NaiveSpellCheckerTest.testIfPackageNameContainsUnderScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StyleChecker" />
       <extension name="coverage">
         <pattern>
@@ -230,14 +142,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.TestStyleChecker" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.NaiveSpellCheckerTest" />
       <option name="METHOD_NAME" value="testIfPackageNameContainsUnderScores" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStyleChecker.testIfPackageNameContainsUpperCaseLetters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NaiveSpellCheckerTest.testIfPackageNameContainsUpperCaseLetters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StyleChecker" />
       <extension name="coverage">
         <pattern>
@@ -246,7 +158,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.TestStyleChecker" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.stylechecker.NaiveSpellCheckerTest" />
       <option name="METHOD_NAME" value="testIfPackageNameContainsUpperCaseLetters" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -255,10 +167,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestStyleChecker" />
-        <item itemvalue="JUnit.TestStyleChecker.testIfOpeningBracketsAreOnSameLine" />
-        <item itemvalue="JUnit.TestStyleChecker.testIfPackageNameContainsUnderScores" />
-        <item itemvalue="JUnit.TestStyleChecker.testIfPackageNameContainsUpperCaseLetters" />
+        <item itemvalue="JUnit.NaiveSpellCheckerTest" />
+        <item itemvalue="JUnit.NaiveSpellCheckerTest.testIfOpeningBracketsAreOnSameLine" />
+        <item itemvalue="JUnit.NaiveSpellCheckerTest.testIfPackageNameContainsUnderScores" />
+        <item itemvalue="JUnit.NaiveSpellCheckerTest.testIfPackageNameContainsUpperCaseLetters" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -274,6 +186,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583071383055</updated>
       <workItem from="1583071386939" duration="5396000" />
+      <workItem from="1608814099161" duration="624000" />
+      <workItem from="1608995778698" duration="2829000" />
     </task>
     <servers />
   </component>
@@ -309,102 +223,30 @@
       <configuration name="TestStyleChecker" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5396000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22940226" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32876712" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32956383" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1803" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609072027140">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1803" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1280.0.1600.900/0.0.1280.800@1280.0.1600.900" timestamp="1609072027140" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/StyleChecker$TestStyleChecker.ic" NAME="TestStyleChecker Coverage Results" MODIFIED="1583077685861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>bg.sofia.uni.fmi.mjt.stylechecker.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/StyleChecker.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/stylechecker/TestStyleChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/stylechecker/StyleChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/stylechecker/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
